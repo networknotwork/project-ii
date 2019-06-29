@@ -1,0 +1,20 @@
+{
+  "name": "project-ii",
+  "version": "1.0.0",
+  "description": "Prototype Arena",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/networknotwork/project-ii.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/networknotwork/project-ii/issues"
+  },
+  "homepage": "https://github.com/networknotwork/project-ii#readme"
+}
